@@ -15,12 +15,19 @@ import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
 public class OpModeName extends Linear {
 
     public void opInit() {
+      // This code runs when you select 'Init' in the Driver Station.
     }
 
     public void opBeforeLoop() {
+      // This runs once when you hit 'Run'.
     }
 
     public void opLoop() {
+      // This runs over and over again after opBeforeLoop until you stop the opmode.
+    }
+
+    public void opAfterLoop() {
+      // This runs once when you stop the opmode. Put cleanup code here.
     }
 }
 ```
