@@ -1,5 +1,6 @@
 # Creating a Subassembly
-Our team uses a `subassemblies` directory under the main source directory, but you can do whatever you want. \
+Our team uses a `subassemblies` directory under the main source directory, but you can do whatever you want.
+
 Create a Java file in whichever directory you choose, with the following template content:
 ```java
 package org.firstinspires.ftc.teamcode.subassemblies;
