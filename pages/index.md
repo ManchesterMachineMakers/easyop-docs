@@ -1,7 +1,4 @@
-# Nextra
+# EasyOp
+Copyleft 2020 FTC Team 16221 Manchester Machine Makers
 
-**Nextra** is a [Next.js](https://nextjs.org) based static site generator. 0 line of code needed.  
-
-It supports Markdown with React components ([MDX](/docs/mdx)), automatically generated [sidebar and anchor links](/docs/anchors), file-system based routing, built-in syntax highlighting, i18n and more.
-
-![](/demo.png)
+EasyOp is a library for modularizing FTC code, and writing it more easily at that.

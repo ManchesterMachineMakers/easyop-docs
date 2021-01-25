@@ -1,5 +1,5 @@
 {
-  "name": "nextra",
+  "name": "easyop-docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,14 @@
     "start": "next start",
     "build": "next build"
   },
-  "author": "Shu Ding",
-  "license": "MIT",
+  "author": "Manchester Machine Makers",
+  "license": "Unlicense",
   "dependencies": {
-    "next": "^10.0.3",
+    "next": "^9.5.3",
     "nextra": "^0.4.0",
     "nextra-theme-docs": "^1.1.0",
+    "prism-react-renderer": "^1.1.1",
+    "prismjs": "^1.23.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
