@@ -36,6 +36,6 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditOnGitHubLink: true,
+  footerEditOnGitHubLink: false,
   footerText: <>Copyleft {new Date().getFullYear()} ManchesterMachineMakers. Made with <a href="https://github.com/shuding/nextra">Nextra</a>.</>
 }
