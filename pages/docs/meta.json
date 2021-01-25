@@ -4,5 +4,7 @@
   "create-opmode": "Creating an OpMode",
   "create-subassembly": "Creating a Subassembly",
   "devices": "Devices",
-  "dependency-injection": "Dependency Injection"
+  "dependency-injection": "Dependency Injection",
+  "util": "Utilities",
+  "concepts": "Concepts"
 }
