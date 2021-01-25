@@ -18,11 +18,11 @@ export default {
       <meta name="description" content="EasyOp: FTC Coding Made Easy" />
       <meta name="og:description" content="EasyOp: FTC Coding Made Easy" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="twitter:site:domain" content="nextra.vercel.app" />
-      <meta name="twitter:url" content="https://nextra.vercel.app" />
-      <meta name="og:title" content="Nextra: Next.js static site generator" />
-      <meta name="og:image" content="https://nextra.vercel.app/og.png" />
+      <meta name="twitter:image" content="https://easyop-docs.vercel.app/demo.png" />
+      <meta name="twitter:site:domain" content="easyop-docs.vercel.app" />
+      <meta name="twitter:url" content="https://easyop-docs.vercel.app" />
+      <meta name="og:title" content="EasyOp: FTC Coding Made Easy" />
+      <meta name="og:image" content="https://easyop-docs.vercel.app/demo.png" />
       <meta name="apple-mobile-web-app-title" content="Nextra" />
       <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png"/>
       <link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png"/>
