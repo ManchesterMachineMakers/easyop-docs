@@ -6,7 +6,7 @@ To use the logging utility, follow the main instructions to include it, and then
 
 ## API
 ### `void log(LogPriority? priority, String message)`
-Logs `message` to the logging system (`logcat` right now, transitioning to the RobotLog system) at the priority specified by `priority`. If `priority` is not specified, it uses the default of `LogPriority.Info`.
+Logs `message` to the [RobotLog](https://first-tech-challenge.github.io/FtcRobotController/6.0.1/RobotCore/com/qualcomm/robotcore/util/RobotLog.html) system at the priority specified by `priority`. If `priority` is not specified, it uses the default of `LogPriority.Info`.
 #### Example
 ```java
 log("Default priority (info)");
@@ -29,6 +29,10 @@ Output:
 01-01 13:56:38.677  1318  1429 W Logging Test: LogPriority.Warn
 01-01 13:56:38.678  1318  1429 I Logging Test: Logging test over
 ```
+### `String getLogFile()`
+See [RobotLog#getLogFilename](https://first-tech-challenge.github.io/FtcRobotController/6.0.1/RobotCore/com/qualcomm/robotcore/util/RobotLog.html#getLogFilename--)
+### `void cancelDiskLogging()`
+See [RobotLog#cancelWriteLogcatToDisk](https://first-tech-challenge.github.io/FtcRobotController/6.0.1/RobotCore/com/qualcomm/robotcore/util/RobotLog.html#cancelWriteLogcatToDisk--)
 ### `enum LogPriority`
 Priorities for logging.  
 **Members**:
