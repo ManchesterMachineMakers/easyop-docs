@@ -37,5 +37,5 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditOnGitHubLink: false,
-  footerText: <>Copyleft {new Date().getFullYear()} ManchesterMachineMakers. Made with <a href="https://github.com/shuding/nextra">Nextra</a>.</>
+  footerText: <>Copyright {new Date().getFullYear()} Aleks Rūtiņš under the MIT license. Made with <a href="https://github.com/shuding/nextra">Nextra</a>.</>
 }
